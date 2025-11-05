@@ -1,4 +1,5 @@
 # Signify
+Figma: https://www.figma.com/design/NCtw6pk7pZomal7wJWMmHN/Duolingo-App-UI---Free-UI-Kit-(Recreated)-(Community)?node-id=203-8&t=Fb4KBlYsBYl5dX6T-1
 Signify is an android app designed to solve the problem of finding a free and engaging way to learn American Sign Language (ASL). Whether you're a beginner or an advanced learner, Signify offers learning modules, real-time signing practice with feedback, and progress tracking to help you master the language. no matter which stage you are in learning the language. The app fosters inclusivity and connection with the Deaf and hard-of-hearing community by empowering users to communicate confidently in ASL.
 # Deployment Instructions
 
